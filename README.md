@@ -16,7 +16,7 @@ Javascript (Nodejs), también utilizando un servicio de hosting de base datos en
 
 ***
 
-## Inicio.
+## Inicio
 
 *En inicio será el lugar donde ser van a poder visualizar todos lo video guardados (del más reciente al más antigüo respectivamente), a demás de las siguientes acciones:*
 
